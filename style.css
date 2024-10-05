@@ -72,7 +72,7 @@ li a{
     border-radius: 5px;
     gap: 10px;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
-    font-size: 15px;
+    
 
 }
 
@@ -82,17 +82,26 @@ li a{
     height: 60px;
 }
 .c1{
-    color: rgb(63, 241, 63);
+    color: rgb(21, 165, 21);
+    font-size: 15px;
+}
+p{
+    font-size: 14px;
+    font-weight: bold;
+    height: 20px;
+    margin: 1px auto 6px auto;
 }
 button{
-    margin-top: 8px;
+    margin-top: 2px;
     padding: 1px;
-    background: rgb(128, 225, 68);
+    background: rgb(97, 143, 68);
     border: none;
     width: 100px;
     height: 30px;
     border-radius: 5px;
     cursor: pointer;
+    color: white;
+    
 }
 
 footer{
