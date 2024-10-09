@@ -56,12 +56,71 @@ li a{
     text-decoration: none;
     color: white;
 }
+
+.tp{
+   font-weight: bolder;
+   font-size: 70px; 
+    margin-top: 15px;
+    display:flex;
+    justify-content: center;
+    /* background-color: aqua; */
+    width: 40%;
+}
+
+.coracao{
+    width: 100px;
+    height: 100px;
+    margin-top: 25px;
+    /* background-color: green; */
+
+ 
+}
+.topo{
+    text-align: center;
+    /* background: red; */
+    height: auto;
+    display: flex;
+    justify-content: center;
+    
+}
+.topo2{
+    margin-top: 50px;
+    display:flex;
+    justify-content: center;
+    margin:10px auto;
+    background-color: aqua;
+    width: 100%;
+    
+}
 .presentes{
     display: flex;
     justify-content: center;
     gap: 30px;
    
     border-radius: 5px;
+}
+.f{
+    /* background-color: red; */
+    font-size: 50px;
+    margin:auto 50px auto 50px;
+}
+.ps{
+    /* background: red; */
+    width: 200px;
+    height: 200px;
+}
+.fotocasal{
+    width: 350px;
+    display: flex;
+    justify-content:center;
+    margin: 10px auto ;
+    text-align: center;
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+.contribua{
+    font-size: 20px;
+    text-align: center;
 }
 .produtos{
     width: 190px;
